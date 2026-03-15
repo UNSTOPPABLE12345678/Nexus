@@ -1,0 +1,5 @@
+{
+  "name": "NEXUS Gaming Voice Assistant",
+  "description": "A real-time voice assistant for gamers powered by Gemini Live API.",
+  "requestFramePermissions": ["microphone", "camera", "geolocation"]
+}
